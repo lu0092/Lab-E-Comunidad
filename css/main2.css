@@ -1,0 +1,139 @@
+
+.fondo{
+	background-color: #556B2F;
+	background-size: 100%;
+	background:contain;
+	text-align: center;
+	padding-bottom:30px;
+}
+h2{
+	color: white;
+	font-size: 24px;
+	padding: 50px 0 0 0;
+	text-align: left;
+	padding-left: 120px;
+}
+.fondo img{
+	width: 70%;
+	padding: 10px 10px;
+}
+.col-6 div{
+	padding: 30px 40px;
+	color: white;
+	margin-top:100px;
+}
+.equipo{
+	text-align: center;
+	padding-bottom:30px; 
+}
+.name-equipo{
+	color: black;
+}
+.equipo .mujer{
+	border-radius: 50%;
+	width: 40%;
+}
+h5{
+	font-size: 22px;
+	padding: 40px 0 0 0;
+}
+h6{
+	font-size: 16px;
+	padding: 10px 0;
+}
+.biografia{
+	padding: 0 100px 30px 100px;
+}
+.redes li{
+	display: inline-block;
+	width: 5%
+	padding-right:0px;
+}
+.redes img{
+	width: 50%;
+}
+.blog{
+	background-image: url("../img/fondo2.jpg");
+	background-size: 100%;
+	background:contain;
+	text-align: all;
+	padding-bottom: 60px;
+	padding-right: 20px; 
+}
+.name-blog{
+	color: black;
+}
+.col-4 img{
+	width: 80%;
+	margin-left: 60px;
+	margin-right: 40px;
+}
+.titulo-post{
+	font-size: 20px;
+	margin-left: 60px;
+	margin-right:20px;
+}
+.titulo-post a{
+	text-decoration: none;
+	color:black; 
+}
+.fecha{
+	font-size: 16px;
+	margin-left: 60px;
+	margin-right:20px;
+}
+.parrafo{
+	text-align: all;
+	margin-left: 60px;
+	margin-right:20px;
+}
+.cuadro-final{
+	background-color: #4B4B4B;
+	background-size: 100%;
+	background:contain;
+	padding: 50px 0 50px 40px;
+}
+.final{
+	position: relative;
+	width: 1140px;
+	margin-left: 24px;
+}
+.uno{
+	display: inline-block;
+	height: 200px;
+	width: 282px;
+	border: 1px solid #9B9797;
+	margin-right: -5px;
+}
+.final p{
+	color:white;
+	font-size: 18px;
+	padding: 15px 0 0 15px;
+}
+.final a{
+	text-decoration: none;
+}
+.final img{
+	width: 3%;
+	margin-top: 120px;
+    margin-left:150px; 
+    position: absolute;
+}
+.mail{
+	position: relative;
+}
+.proye{
+	display: inline-block;
+	margin: 40px 0 60px 65px;
+}
+.lab{
+	text-decoration: none;
+	color: #F7EF0B;
+}
+.eco{
+	display: inline-block;
+	float: right;
+	margin-right: 60px;
+	margin-top: 40px;
+	text-align: right; 
+}
